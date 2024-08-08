@@ -5,4 +5,4 @@ import streamlit as st
 
 st.title("Olá, Gabi & Gui!")
 st.header("Turma 2EI-S")
-st.subheader("Melhores alunos do SENAI")
+st.subheader("Melhores alunos do SENAI :)")
